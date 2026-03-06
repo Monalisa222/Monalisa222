@@ -21,6 +21,7 @@ After a short career break, I’m actively rebuilding and deploying production-r
 - Authentication & Authorization
 - Performance Optimization
 - Git & GitHub workflows
+- AI/LLM
 
 ---
 
